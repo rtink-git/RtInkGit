@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/BunnerBox/script.js",
+      "PackagePath": "staticwebassets/Modules/BunnerBox/script.js"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/BunnerBox/style.css",
+      "PackagePath": "staticwebassets/Modules/BunnerBox/style.css"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/FooterBox/script.js",
+      "PackagePath": "staticwebassets/Modules/FooterBox/script.js"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/FooterBox/style.css",
+      "PackagePath": "staticwebassets/Modules/FooterBox/style.css"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/HeaderBox/content/email-icon-64-dark.png",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/content/email-icon-64-dark.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/HeaderBox/content/email-icon-64-light.png",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/content/email-icon-64-light.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/HeaderBox/script.js",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/script.js"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/HeaderBox/style.css",
+      "PackagePath": "staticwebassets/Modules/HeaderBox/style.css"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/script.js",
+      "PackagePath": "staticwebassets/Modules/Total/script.js"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/style.css",
+      "PackagePath": "staticwebassets/Modules/Total/style.css"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/WListBox/content/LinkedIn Banner 20241029.png",
+      "PackagePath": "staticwebassets/Modules/WListBox/content/LinkedIn Banner 20241029.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/WListBox/content/LinkedIn Banner 20241104.png",
+      "PackagePath": "staticwebassets/Modules/WListBox/content/LinkedIn Banner 20241104.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/WListBox/content/LinkedIn Banner 20241108.png",
+      "PackagePath": "staticwebassets/Modules/WListBox/content/LinkedIn Banner 20241108.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/WListBox/script.js",
+      "PackagePath": "staticwebassets/Modules/WListBox/script.js"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/WListBox/style.css",
+      "PackagePath": "staticwebassets/Modules/WListBox/style.css"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/scheme.json",
+      "PackagePath": "staticwebassets/UISs/Index/scheme.json"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/script.js",
+      "PackagePath": "staticwebassets/UISs/Index/script.js"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/script.min.js",
+      "PackagePath": "staticwebassets/UISs/Index/script.min.js"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/style.css",
+      "PackagePath": "staticwebassets/UISs/Index/style.css"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/style.min.css",
+      "PackagePath": "staticwebassets/UISs/Index/style.min.css"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/manifest.json",
+      "PackagePath": "staticwebassets/manifest.json"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.RtInkGit.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.build.RtInkGit.props",
+      "PackagePath": "build\\RtInkGit.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.buildMultiTargeting.RtInkGit.props",
+      "PackagePath": "buildMultiTargeting\\RtInkGit.props"
+    },
+    {
+      "Id": "obj/Release/net8.0/win-x64/staticwebassets/msbuild.buildTransitive.RtInkGit.props",
+      "PackagePath": "buildTransitive\\RtInkGit.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

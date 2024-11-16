@@ -2,6 +2,18 @@
   "version": 3,
   "targets": {
     "net8.0": {
+      "Alga.wwwcore/2.0.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http": "2.2.2"
+        },
+        "compile": {
+          "lib/net8.0/wwwcore.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/wwwcore.dll": {}
+        }
+      },
       "BuildBundlerMinifier/3.2.449": {
         "type": "package",
         "build": {
@@ -208,23 +220,244 @@
             "related": ".xml"
           }
         }
-      },
+      }
+    },
+    "net8.0/win-x64": {
       "Alga.wwwcore/2.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
+        "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Http": "2.2.2"
         },
         "compile": {
-          "bin/placeholder/Alga.wwwcore.dll": {}
+          "lib/net8.0/wwwcore.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Alga.wwwcore.dll": {}
+          "lib/net8.0/wwwcore.dll": {}
+        }
+      },
+      "BuildBundlerMinifier/3.2.449": {
+        "type": "package",
+        "build": {
+          "build/BuildBundlerMinifier.targets": {}
+        }
+      },
+      "Microsoft.AspNetCore.Http/2.2.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.AspNetCore.WebUtilities": "2.2.0",
+          "Microsoft.Extensions.ObjectPool": "2.2.0",
+          "Microsoft.Extensions.Options": "2.2.0",
+          "Microsoft.Net.Http.Headers": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Abstractions/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
+          "System.Text.Encodings.Web": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.Http.Features/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "2.2.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.Http.Features.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.AspNetCore.WebUtilities/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Net.Http.Headers": "2.2.0",
+          "System.Text.Encodings.Web": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.WebUtilities.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.AspNetCore.WebUtilities.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/2.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.ObjectPool/2.2.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.ObjectPool.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "2.2.0",
+          "Microsoft.Extensions.Primitives": "2.2.0",
+          "System.ComponentModel.Annotations": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Options.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "System.Memory": "4.5.1",
+          "System.Runtime.CompilerServices.Unsafe": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Microsoft.Net.Http.Headers/2.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "2.2.0",
+          "System.Buffers": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Net.Http.Headers.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Net.Http.Headers.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Buffers/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
+      "System.ComponentModel.Annotations/4.5.0": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/_._": {}
+        }
+      },
+      "System.Memory/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netcoreapp2.1/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/_._": {}
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Text.Encodings.Web/4.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/System.Text.Encodings.Web.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/System.Text.Encodings.Web.dll": {
+            "related": ".xml"
+          }
         }
       }
     }
   },
   "libraries": {
+    "Alga.wwwcore/2.0.0": {
+      "sha512": "XtSqShYh+eWpwbzuJ8hQLSDNV8H1ZKdxzrzT2arQFqDbMP6pL8tz8agoms5fnfM9rueuwg5Tp+I+qclxcIK/gg==",
+      "type": "package",
+      "path": "alga.wwwcore/2.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "alga.wwwcore.2.0.0.nupkg.sha512",
+        "alga.wwwcore.nuspec",
+        "lib/net8.0/wwwcore.dll"
+      ]
+    },
     "BuildBundlerMinifier/3.2.449": {
       "sha512": "uA9sYDy4VepL3xwzBTLcP2LyuVYMt0ZIT3gaSiXvGoX15Ob+rOP+hGydhevlSVd+rFo+Y+VQFEHDuWU8HBW+XA==",
       "type": "package",
@@ -556,11 +789,6 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "Alga.wwwcore/2.0.0": {
-      "type": "project",
-      "path": "../../../Alga/wwwcore/wwwcore/wwwcore.csproj",
-      "msbuildProject": "../../../Alga/wwwcore/wwwcore/wwwcore.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -573,13 +801,13 @@
     "/Users/aidargalimov/.nuget/packages/": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "2024.11.2",
     "restore": {
-      "projectUniqueName": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/RtInkGit.csproj",
+      "projectUniqueName": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/RtInkGit.csproj",
       "projectName": "RtInkGit",
-      "projectPath": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/RtInkGit.csproj",
+      "projectPath": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/RtInkGit.csproj",
       "packagesPath": "/Users/aidargalimov/.nuget/packages/",
-      "outputPath": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/",
+      "outputPath": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aidargalimov/.nuget/NuGet/NuGet.Config"
@@ -594,11 +822,7 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {
-            "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/Alga/wwwcore/wwwcore/wwwcore.csproj": {
-              "projectPath": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/Alga/wwwcore/wwwcore/wwwcore.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -616,6 +840,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Alga.wwwcore": {
+            "target": "Package",
+            "version": "[2.0.0, )"
+          },
           "BuildBundlerMinifier": {
             "target": "Package",
             "version": "[3.2.449, )"
@@ -632,6 +860,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[8.0.11, 8.0.11]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -641,6 +875,11 @@
           }
         },
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
       }
     }
   }

@@ -11,8 +11,6 @@
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.AssemblyInfo.cs
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.csproj.CoreCompileInputs.cache
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.MvcApplicationPartsAssemblyInfo.cache
-/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.RazorAssemblyInfo.cache
-/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.RazorAssemblyInfo.cs
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/staticwebassets.build.json
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/staticwebassets.development.json
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/staticwebassets/msbuild.RtInkGit.Microsoft.AspNetCore.StaticWebAssets.props
@@ -20,11 +18,15 @@
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.RtInkGit.props
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.RtInkGit.props
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/staticwebassets.pack.json
-/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/scopedcss/bundle/RtInkGit.styles.css
-/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/scopedcss/projectbundle/RtInkGit.bundle.scp.css
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.dll
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/refint/RtInkGit.dll
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.pdb
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.genruntimeconfig.cache
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/ref/RtInkGit.dll
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net8.0/wwwcore.dll
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net8.0/wwwcore.pdb
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.csproj.AssemblyReference.cache
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.sourcelink.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net8.0/RtInkGit.csproj.Up2Date
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net8.0/bundleconfig.json

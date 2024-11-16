@@ -1,0 +1,61 @@
+.WListBox {
+    float: left;
+    text-align: center;
+    width: 100%;
+    margin: 40px 0 90px;
+}
+
+.WListBox > ul {
+    display: inline-block;
+    width: 500px;
+}
+
+@media (max-width: 560px) {
+    .WListBox > ul {
+        width: calc(100% - 60px);
+        margin: 0 30px;
+    }
+}
+
+.WListBox > ul > li {
+    float: left;
+    width: 100%;
+}
+
+.WListBox > ul > li > article {
+    float: left;
+    width: inherit;
+    background: #fff;
+    box-shadow: rgba(131, 133, 135, 0.16) 0px 1px 2px;
+    border-radius: 20px;
+    margin: 15px 0;
+}
+
+.WListBox > ul > li > article > img {
+    float: left;
+    width: 100%;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.WListBox > ul > li > article > h1 {
+    float: left;
+    width: calc(100% - 60px);
+    padding: 20px 30px 10px;
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 1px;
+}
+
+.WListBox > ul > li > article > h1 > a {
+    color: black;
+    font-weight: 600;
+}
+
+.WListBox > ul > li > article > p {
+    float: left;
+    width: calc(100% - 60px);
+    padding: 0 30px 30px;
+    text-align: left;
+    font-size: 13px;
+}

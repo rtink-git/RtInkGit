@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RtInkGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3b490470cda604512e9fb1de7150daffd0a24edc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bde8bf4319f8889034af28688357295b4602086d")]
 [assembly: System.Reflection.AssemblyProductAttribute("RtInkGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RtInkGit")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

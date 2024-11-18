@@ -13,6 +13,11 @@
     font-size: 34px;
 }
 
+@media (max-width: 600px) { .BunnerBox h1 { font-size: 30px; } }
+@media (max-width: 550px) { .BunnerBox h1 { font-size: 28px; } }
+@media (max-width: 500px) { .BunnerBox h1 { font-size: 26px; } }
+
+
 .BunnerBox > * {
     display: inline-block;
     max-width: 600px;

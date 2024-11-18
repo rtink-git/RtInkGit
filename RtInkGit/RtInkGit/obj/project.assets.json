@@ -2,18 +2,6 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Alga.wwwcore/2.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Http": "2.2.2"
-        },
-        "compile": {
-          "lib/net8.0/wwwcore.dll": {}
-        },
-        "runtime": {
-          "lib/net8.0/wwwcore.dll": {}
-        }
-      },
       "BuildBundlerMinifier/3.2.449": {
         "type": "package",
         "build": {
@@ -219,22 +207,23 @@
           "lib/netstandard2.0/System.Text.Encodings.Web.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "Alga.wwwcore/2.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http": "2.2.2"
+        },
+        "compile": {
+          "bin/placeholder/Alga.wwwcore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Alga.wwwcore.dll": {}
         }
       }
     },
     "net8.0/win-x64": {
-      "Alga.wwwcore/2.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNetCore.Http": "2.2.2"
-        },
-        "compile": {
-          "lib/net8.0/wwwcore.dll": {}
-        },
-        "runtime": {
-          "lib/net8.0/wwwcore.dll": {}
-        }
-      },
       "BuildBundlerMinifier/3.2.449": {
         "type": "package",
         "build": {
@@ -440,24 +429,24 @@
           "lib/netstandard2.0/System.Text.Encodings.Web.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "Alga.wwwcore/2.0.1": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Http": "2.2.2"
+        },
+        "compile": {
+          "bin/placeholder/Alga.wwwcore.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Alga.wwwcore.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Alga.wwwcore/2.0.0": {
-      "sha512": "XtSqShYh+eWpwbzuJ8hQLSDNV8H1ZKdxzrzT2arQFqDbMP6pL8tz8agoms5fnfM9rueuwg5Tp+I+qclxcIK/gg==",
-      "type": "package",
-      "path": "alga.wwwcore/2.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "README.md",
-        "alga.wwwcore.2.0.0.nupkg.sha512",
-        "alga.wwwcore.nuspec",
-        "lib/net8.0/wwwcore.dll"
-      ]
-    },
     "BuildBundlerMinifier/3.2.449": {
       "sha512": "uA9sYDy4VepL3xwzBTLcP2LyuVYMt0ZIT3gaSiXvGoX15Ob+rOP+hGydhevlSVd+rFo+Y+VQFEHDuWU8HBW+XA==",
       "type": "package",
@@ -789,11 +778,16 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Alga.wwwcore/2.0.1": {
+      "type": "project",
+      "path": "../../../../../Alga/wwwcore/wwwcore/wwwcore.csproj",
+      "msbuildProject": "../../../../../Alga/wwwcore/wwwcore/wwwcore.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Alga.wwwcore >= 2.0.0",
+      "Alga.wwwcore >= 2.0.1",
       "BuildBundlerMinifier >= 3.2.449"
     ]
   },
@@ -801,7 +795,7 @@
     "/Users/aidargalimov/.nuget/packages/": {}
   },
   "project": {
-    "version": "2024.11.2",
+    "version": "2024.11.18",
     "restore": {
       "projectUniqueName": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/RtInkGit.csproj",
       "projectName": "RtInkGit",
@@ -822,7 +816,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/Alga/wwwcore/wwwcore/wwwcore.csproj": {
+              "projectPath": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/Alga/wwwcore/wwwcore/wwwcore.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -840,10 +838,6 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
-          "Alga.wwwcore": {
-            "target": "Package",
-            "version": "[2.0.0, )"
-          },
           "BuildBundlerMinifier": {
             "target": "Package",
             "version": "[3.2.449, )"

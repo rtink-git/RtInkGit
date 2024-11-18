@@ -29,3 +29,4 @@
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/obj/Release/net8.0/win-x64/RtInkGit.pdb
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/obj/Release/net8.0/win-x64/RtInkGit.genruntimeconfig.cache
 /Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/obj/Release/net8.0/win-x64/ref/RtInkGit.dll
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/bin/Release/net8.0/win-x64/wwwcore.pdb

@@ -7,22 +7,25 @@ class WListBox {
         if (this._IsDebug) console.log(`${this._LogBase} Ready to use`); // Логирование с шаблонной строкой
     }
 
-    push(target, position = "afterend") {
+    push(target, position = "afterend", list) {
         if(this._IsDebug) console.log(`${this._LogBase}.push()`);
         if (!(target instanceof HTMLElement)) target = document.getElementById(target);
-        target.insertAdjacentHTML(position, this._html());
+        target.insertAdjacentHTML(position, this._html(list));
     }
 
-    _html() {
+    _html(list) {
         if (this._IsDebug) console.log(`${this._LogBase}._html()`);
         const idH = this.Id ? `id="${this.Id}"` : "";
+
+        let lis = ""
+        list.forEach(m => {
+            lis += this._li(m.title, m.description, m.url, m.img)
+        })
 
         return `
 <div ${idH} class="${this.constructor.name}">
     <ul>
-    ${this._li("CountryForMoment.js", "Script allows you to get the country code of your current location", "https://github.com/rtink-git/CountryForMomentJs", "/Modules/WListBox/content/LinkedIn Banner 20241108.png")}
-    ${this._li("Alga.wwwcore", "Nuget package extension to simplify development of ASP.NET Core applications", "https://www.nuget.org/packages/Alga.wwwcore", "/Modules/WListBox/content/LinkedIn Banner 20241104.png")}
-    ${this._li("RT.Ink", "World news feed", "https://rt.ink/", "/Modules/WListBox/content/LinkedIn Banner 20241029.png")}
+    ${lis}
     </ul>
 </div>`;
     }

@@ -9,6 +9,14 @@
       "PackagePath": "staticwebassets/Modules/BunnerBox/style.css"
     },
     {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/CategoriesHoriBox/script.js",
+      "PackagePath": "staticwebassets/Modules/CategoriesHoriBox/script.js"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/CategoriesHoriBox/style.css",
+      "PackagePath": "staticwebassets/Modules/CategoriesHoriBox/style.css"
+    },
+    {
       "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/FooterBox/script.js",
       "PackagePath": "staticwebassets/Modules/FooterBox/script.js"
     },

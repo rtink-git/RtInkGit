@@ -1,10 +1,12 @@
 class CategoriesHoriBox {
-    constructor(id=null) {
+    // categories: ["Projects", "News", "Shelf"]
+    constructor(id=null, categories) {
         this.Id = (id != null && id.length > 0) ? id : this.constructor.name;
         this.UrlContent = `/Modules/${this.constructor.name}/content`; // Используем шаблонные строки
         this._LogBase = `Page component: ${this.constructor.name}. id: ${this.Id}`; // Шаблонные строки
         this._IsDebug = document.URL.includes("localhost"); // Присваиваем сразу
         if (this._IsDebug) console.log(`${this._LogBase} Ready to use`); // Логирование с шаблонной строкой
+        this.Categories = categories
     }
 
     push(target, position = "afterend") {
@@ -51,36 +53,38 @@ class CategoriesHoriBox {
 
     _html() {
         if (this._IsDebug) console.log(`${this._LogBase}._html()`);
-        const idAttr = this.Id ? `id="${this.Id}"` : "";
+        const idAttr = this.Id ? `id="${this.Id}"` : ""
+
+        let category_lis_html = ""
+        let body_lis_html = ""
+        this.Categories.forEach(m => { 
+            category_lis_html += this._category_li_html(m)
+            body_lis_html += "<li></li>"
+        });
 
         return `
 <div ${idAttr} class="${this.constructor.name}">
     <ul>
-        <li>\
-            <a>\
-                Projects\
-            </a>\
-            <span>\
-                /
-            </span>\
-        </li>\
-        <li>\
-            <a>\
-                Shelf\
-            </a>\
-            <span>\
-                /
-            </span>\
-        </li>\
+        ${category_lis_html}
     </ul>
     <div>\
         <ul>\
-            <li>\
-            </li>\
-            <li>\
-            </li>\
+            ${body_lis_html}
         </ul>\
     </div>\
 </div>`;
+    }
+
+    _category_li_html(category) {
+        let html = `
+<li>\
+    <a>\
+        ${category}\
+    </a>\
+    <span>\
+        /
+    </span>\
+</li>`
+        return  html;
     }
 }

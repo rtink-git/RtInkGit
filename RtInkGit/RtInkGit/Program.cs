@@ -57,6 +57,17 @@ app.UseStaticFiles(new StaticFileOptions {
     }
 });
 
+// -- LoggerFactory
+
+var loggerFactory = LoggerFactory.Create(builder => {
+    builder.AddConsole();
+    builder.AddDebug();
+    builder.SetMinimumLevel(LogLevel.Information);
+});
+
+var logger = loggerFactory.CreateLogger<Program>();
+logger.LogInformation("RtInkGit project - started");
+
 // -- Alga.wwwcore
 
 var www = new Root(new ConfigM(
@@ -67,7 +78,7 @@ var www = new Root(new ConfigM(
     Description: "",
     GoogleFontsUrl: "https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat:wght@500;600;700&family=Nunito:wght@500;700&Mulish:wght@500&display=swap",
     CacheControlInSDefault: RtInk.Constants.ThreeHInSecForCache
-));
+), loggerFactory);
 
 // -- endpoints: based on activities
 

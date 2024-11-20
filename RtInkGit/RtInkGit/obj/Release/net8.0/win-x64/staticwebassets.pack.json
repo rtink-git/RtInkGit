@@ -41,6 +41,54 @@
       "PackagePath": "staticwebassets/Modules/HeaderBox/style.css"
     },
     {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-120.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-120.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-150.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-150.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-152.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-152.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-167.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-167.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-180.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-180.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-192.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-192.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-310.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-310.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-32.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-32.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-48.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-48.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-512.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-512.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-64.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-64.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/content/Icon-70.png",
+      "PackagePath": "staticwebassets/Modules/Total/content/Icon-70.png"
+    },
+    {
       "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/Total/script.js",
       "PackagePath": "staticwebassets/Modules/Total/script.js"
     },
@@ -71,6 +119,18 @@
     {
       "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/Modules/WListBox/style.css",
       "PackagePath": "staticwebassets/Modules/WListBox/style.css"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/content/LinkedIn Banner 20241119.png",
+      "PackagePath": "staticwebassets/UISs/Index/content/LinkedIn Banner 20241119.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/content/alga-wwwcore-banner.png",
+      "PackagePath": "staticwebassets/UISs/Index/content/alga-wwwcore-banner.png"
+    },
+    {
+      "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/content/whats-new-in-NET-9.jpg",
+      "PackagePath": "staticwebassets/UISs/Index/content/whats-new-in-NET-9.jpg"
     },
     {
       "Id": "/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/Projects/RTGit/code/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/scheme.json",

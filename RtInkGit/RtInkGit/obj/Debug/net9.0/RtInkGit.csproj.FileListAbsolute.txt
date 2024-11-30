@@ -1,0 +1,163 @@
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/appsettings.Development.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/appsettings.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.staticwebassets.runtime.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.staticwebassets.endpoints.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.deps.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.runtimeconfig.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.dll
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.pdb
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/wwwcore.dll
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.csproj.AssemblyReference.cache
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.AssemblyInfoInputs.cache
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.AssemblyInfo.cs
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.csproj.CoreCompileInputs.cache
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.MvcApplicationPartsAssemblyInfo.cs
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.MvcApplicationPartsAssemblyInfo.cache
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/scopedcss/bundle/RtInkGit.styles.css
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/mv6lsko8yl-d5g2d3p4u4.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/42upyb5kdg-fh4fggniu7.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/weezu0nybs-43k73yquiv.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/3wpfxyad4b-1zp3gt5xpm.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/djj1l4lpv0-2h4de0y5xq.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/mmh1hml5ku-oc8gbsv6l3.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/31gf4sllqi-87c7ew1b5h.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/rntutesj5h-9lvx2g25qb.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/m5i0w544bn-ble3ljt8y1.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/16ojq0bzy0-5ipweew5fc.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/eta1k8aoit-lt970lik0p.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/rq2rwvifgt-p32ngmooth.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/k8cmjjm1q9-n99n6ociro.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/yyu04vbsra-oj1qg9rzvd.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/xmn3jaw5d6-sm3xwzvos2.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/bfuw3ocafk-rfpxw7kot7.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/opi4j7dmxy-5ipweew5fc.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/lzf7j6quwn-ujg14fqxou.gz
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.build.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.development.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.RtInkGit.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.RtInkGit.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.build.RtInkGit.props
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.RtInkGit.props
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.RtInkGit.props
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.csproj.Up2Date
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.dll
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/refint/RtInkGit.dll
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.pdb
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.genruntimeconfig.cache
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/ref/RtInkGit.dll
+/Users/aidargalimov/Library/Mobile Documents/com~apple~CloudDocs/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/bundleconfig.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/appsettings.Development.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/appsettings.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/bundleconfig.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.staticwebassets.runtime.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.staticwebassets.endpoints.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.deps.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.runtimeconfig.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.dll
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.pdb
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/wwwcore.dll
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.csproj.AssemblyReference.cache
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.AssemblyInfoInputs.cache
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.AssemblyInfo.cs
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.csproj.CoreCompileInputs.cache
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.MvcApplicationPartsAssemblyInfo.cs
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.MvcApplicationPartsAssemblyInfo.cache
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/scopedcss/bundle/RtInkGit.styles.css
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/mv6lsko8yl-d5g2d3p4u4.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/42upyb5kdg-fh4fggniu7.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/weezu0nybs-43k73yquiv.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/3wpfxyad4b-1zp3gt5xpm.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/djj1l4lpv0-2h4de0y5xq.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/mmh1hml5ku-oc8gbsv6l3.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/31gf4sllqi-87c7ew1b5h.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/rntutesj5h-9lvx2g25qb.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/m5i0w544bn-ble3ljt8y1.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/16ojq0bzy0-5ipweew5fc.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/eta1k8aoit-lt970lik0p.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/rq2rwvifgt-p32ngmooth.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/k8cmjjm1q9-n99n6ociro.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/yyu04vbsra-oj1qg9rzvd.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/xmn3jaw5d6-sm3xwzvos2.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/bfuw3ocafk-rfpxw7kot7.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/opi4j7dmxy-5ipweew5fc.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/lzf7j6quwn-ujg14fqxou.gz
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.build.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.development.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.RtInkGit.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.RtInkGit.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.build.RtInkGit.props
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.RtInkGit.props
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.RtInkGit.props
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.csproj.Up2Date
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.dll
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/refint/RtInkGit.dll
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.pdb
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.genruntimeconfig.cache
+/Users/airatgalimov/Documents/Airat/RtInkGit/RtInkGit/obj/Debug/net9.0/ref/RtInkGit.dll
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/appsettings.Development.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/appsettings.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/bundleconfig.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.staticwebassets.runtime.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.staticwebassets.endpoints.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.deps.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.runtimeconfig.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.dll
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/RtInkGit.pdb
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/wwwcore.dll
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.csproj.AssemblyReference.cache
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.AssemblyInfoInputs.cache
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.AssemblyInfo.cs
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.csproj.CoreCompileInputs.cache
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.MvcApplicationPartsAssemblyInfo.cs
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.MvcApplicationPartsAssemblyInfo.cache
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.sourcelink.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/scopedcss/bundle/RtInkGit.styles.css
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/mv6lsko8yl-d5g2d3p4u4.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/42upyb5kdg-fh4fggniu7.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/weezu0nybs-43k73yquiv.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/3wpfxyad4b-1zp3gt5xpm.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/djj1l4lpv0-2h4de0y5xq.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/mmh1hml5ku-oc8gbsv6l3.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/31gf4sllqi-87c7ew1b5h.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/rntutesj5h-9lvx2g25qb.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/m5i0w544bn-ble3ljt8y1.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/16ojq0bzy0-5ipweew5fc.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/eta1k8aoit-lt970lik0p.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/rq2rwvifgt-p32ngmooth.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/k8cmjjm1q9-n99n6ociro.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/yyu04vbsra-oj1qg9rzvd.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/xmn3jaw5d6-sm3xwzvos2.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/bfuw3ocafk-rfpxw7kot7.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/opi4j7dmxy-5ipweew5fc.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/lzf7j6quwn-ujg14fqxou.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.build.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.development.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.RtInkGit.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.RtInkGit.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.build.RtInkGit.props
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.RtInkGit.props
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.RtInkGit.props
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.csproj.Up2Date
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.dll
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/refint/RtInkGit.dll
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.pdb
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.genruntimeconfig.cache
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/ref/RtInkGit.dll

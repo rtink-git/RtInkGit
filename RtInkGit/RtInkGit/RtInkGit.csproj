@@ -1,26 +1,17 @@
 <Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
-    <Version>2024.11.21</Version>
-    <Author>rtink-git</Author>
     <ImplicitUsings>enable</ImplicitUsings>
+    <Version>2024.12.1</Version>
+    <Author>rtink.git@gmil.com</Author>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot/Modules/CategoriesHoriBox/content/" />
-    <Folder Include="wwwroot/Modules/FooterBox/content/" />
-    <Folder Include="wwwroot/Modules/HeaderBox/content/" />
-    <Folder Include="wwwroot/Modules/WListBox/content/" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <PackageReference Include="Alga.wwwcore" Version="2.1.0" />
+    <PackageReference Include="Alga.wwwcore" Version="3.0.0" />
     <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
-  </ItemGroup>
-
-  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
   </ItemGroup>
 
 </Project>

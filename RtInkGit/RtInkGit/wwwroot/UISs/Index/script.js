@@ -30,6 +30,7 @@ try {
     lastVerticalId = categoriesHoriBox.Id
 
     let projectsL = [
+        { title: "Alga.xaml", description: "Nuget package. My XAML/XML parser implementation, which I use in my projects", url: "https://www.nuget.org/packages/Alga.xaml/2.0.0", img: "/UISs/Index/content/alga-xaml-banner.png" },
         { title: "Alga.telegram", description: "Nuget package. My implementation of the library for working with Telegram Api-s, which I use in my projects", url: "https://www.nuget.org/packages/Alga.telegram", img: "/UISs/Index/content/LinkedIn Banner 20241119.png" },
         { title: "CountryForMoment.js", description: "Script allows you to get the country code of your current location", url: "https://github.com/rtink-git/CountryForMomentJs", img: "/Modules/WListBox/content/LinkedIn Banner 20241108.png" },
         { title: "Alga.wwwcore", description: "Nuget package extension to simplify development of ASP.NET Core applications", url: "https://www.nuget.org/packages/Alga.wwwcore", img: "/UISs/Index/content/alga-wwwcore-banner.png" },
@@ -39,6 +40,8 @@ try {
     wListBox.push(document.querySelector("#" + categoriesHoriBox.Id + " > div > ul > li:first-child"), "beforeend", projectsL);
 
     let newsL = [
+        { title: "Alga.telegram", description: "New version of the Nuget package updated to version .Net 9", url: "https://www.nuget.org/packages/Alga.telegram/2.0.0", img: "/UISs/Index/content/LinkedIn Banner 20241119.png" },
+        { title: "Alga.wwwcore - version 3.0.0", description: "The new version has been updated to .Net 9", url: "https://www.nuget.org/packages/Alga.wwwcore/3.0.0", img: "/UISs/Index/content/alga-wwwcore-banner.png" },
         { title: "Alga.wwwcore - version 2.1.0", description: "The new version adds a logging system with hints and error information.", url: "https://www.nuget.org/packages/Alga.wwwcore/2.1.0", img: "/UISs/Index/content/alga-wwwcore-banner.png" }
     ]
 

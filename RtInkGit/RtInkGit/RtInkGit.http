@@ -1,0 +1,6 @@
+@RtInkGit_HostAddress = http://localhost:5025
+
+GET {{RtInkGit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

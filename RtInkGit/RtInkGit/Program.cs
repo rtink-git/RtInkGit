@@ -82,7 +82,9 @@ var www = new Root(new ConfigM(
 
 // -- endpoints: based on activities
 
-app.MapGet("/", async (context) => { await www.SendAsync(context, "Index"); }).CacheOutput(ThreeHOutputCachePolicy);
+app.MapGet("/", async (context) => { 
+    await www.SendAsync(context, "Index"); 
+}).CacheOutput(ThreeHOutputCachePolicy);
 
 // -- endpoints: other
 

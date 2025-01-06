@@ -12,11 +12,11 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("RtInkGit")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("2024.12.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2024.12.1+fe03f58a609d71fc449aee85563c54a8e414ad28")]
+[assembly: System.Reflection.AssemblyFileVersionAttribute("2025.1.7.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("2025.01.07+53f4dad95e77e16265c012e76e99dadb129b9efa")]
 [assembly: System.Reflection.AssemblyProductAttribute("RtInkGit")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RtInkGit")]
-[assembly: System.Reflection.AssemblyVersionAttribute("2024.12.1.0")]
+[assembly: System.Reflection.AssemblyVersionAttribute("2025.1.7.0")]
 
 // Создано классом WriteCodeFragment MSBuild.
 

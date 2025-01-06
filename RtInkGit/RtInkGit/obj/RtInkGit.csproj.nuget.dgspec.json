@@ -5,7 +5,7 @@
   },
   "projects": {
     "/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/RtInkGit.csproj": {
-      "version": "2024.12.1",
+      "version": "2025.1.7",
       "restore": {
         "projectUniqueName": "/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/RtInkGit.csproj",
         "projectName": "RtInkGit",
@@ -46,7 +46,7 @@
           "dependencies": {
             "Alga.wwwcore": {
               "target": "Package",
-              "version": "[3.0.0, )"
+              "version": "[3.0.6, )"
             },
             "BuildBundlerMinifier": {
               "target": "Package",
@@ -68,6 +68,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[9.0.0, 9.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -77,6 +83,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

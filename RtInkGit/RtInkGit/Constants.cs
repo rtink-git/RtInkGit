@@ -1,5 +1,4 @@
-namespace RtInk;
-
+namespace RtInkGit;
 static class Constants
 {
     #if RELEASE

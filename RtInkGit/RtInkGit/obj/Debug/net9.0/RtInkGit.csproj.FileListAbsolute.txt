@@ -139,11 +139,8 @@
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/m5i0w544bn-ble3ljt8y1.gz
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/16ojq0bzy0-5ipweew5fc.gz
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/eta1k8aoit-lt970lik0p.gz
-/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/rq2rwvifgt-p32ngmooth.gz
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/k8cmjjm1q9-n99n6ociro.gz
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/yyu04vbsra-oj1qg9rzvd.gz
-/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/xmn3jaw5d6-sm3xwzvos2.gz
-/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/bfuw3ocafk-rfpxw7kot7.gz
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/opi4j7dmxy-5ipweew5fc.gz
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/lzf7j6quwn-ujg14fqxou.gz
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/staticwebassets.build.json
@@ -161,3 +158,6 @@
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.pdb
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/RtInkGit.genruntimeconfig.cache
 /Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/ref/RtInkGit.dll
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/rq2rwvifgt-s7popjhn9o.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/bfuw3ocafk-jiijq5e14w.gz
+/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/obj/Debug/net9.0/compressed/xmn3jaw5d6-iulxbq7ffk.gz

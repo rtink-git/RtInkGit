@@ -1,0 +1,53 @@
+.FooterBox {
+    position:absolute;
+    text-align: left;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+    background: #fff;
+}
+
+.FooterBox > *:first-child {
+    float: left;
+    height: inherit;
+    width: calc(100% - 110px);
+    padding: 0 55px;
+    height: inherit;
+}
+
+@media (max-width: 550px) {
+    .FooterBox > *:first-child {
+        width: calc(100% - 60px);
+        padding: 0 30px;
+    }
+}
+
+.FooterBox > *:first-child > ul {
+    float: right;
+    height: inherit;
+}
+
+.FooterBox > *:first-child > ul >  li {
+    height: inherit;
+    float: left;
+}
+
+.FooterBox > *:first-child > ul >  li > a {
+    height: inherit;
+    float: left;
+}
+
+.FooterBox > *:first-child > ul >  li > a > span {
+    float: left;
+    color: rgb(34, 35, 35);
+    letter-spacing: 0.5px;
+    font-size: 12px;
+    padding: 0 17px;
+    margin: 17px 0;
+    border-right: 1px solid gray;
+}
+
+.FooterBox > *:first-child > ul >  li:last-child > a > span {
+    border: none;
+    padding-right: 0;
+}

@@ -4,12 +4,12 @@
     <TargetFramework>net9.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Version>2024.12.1</Version>
+    <Version>2025.01.07</Version>
     <Author>rtink.git@gmil.com</Author>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Alga.wwwcore" Version="3.0.0" />
+    <PackageReference Include="Alga.wwwcore" Version="3.0.6" />
     <PackageReference Include="BuildBundlerMinifier" Version="3.2.449" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.0" />
   </ItemGroup>

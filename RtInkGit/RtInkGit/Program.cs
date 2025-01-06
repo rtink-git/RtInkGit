@@ -19,10 +19,24 @@ builder.Services.AddRequestTimeouts(options => {
     options.AddPolicy(S5TimeoutPolicy, TimeSpan.FromSeconds(5));
 });
 
-var ThreeHOutputCachePolicy = "ThreeHOutputCachePolicy";
+//var ThreeHOutputCachePolicy = "ThreeHOutputCachePolicy";
 builder.Services.AddOutputCache(options =>{
-    options.AddPolicy(ThreeHOutputCachePolicy, builder => builder.Expire(TimeSpan.FromSeconds( RtInk.Constants.ThreeHInSecForCache)));
+    options.DefaultExpirationTimeSpan = TimeSpan.FromMinutes(RtInkGit.Constants.ThreeHInSecForCache);
+    //options.AddPolicy(ThreeHOutputCachePolicy, builder => builder.Expire(TimeSpan.FromSeconds( RtInkGit.Constants.ThreeHInSecForCache)));
 });
+
+builder.Services.AddHttpContextAccessor();
+
+builder.Services.AddSingleton<Root>(sp => new Root(new ConfigM {
+        Name= "RT Dev - Application",
+        NameShort= "RT Git",
+        Description= "",
+        GoogleFontsUrl= "https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat:wght@500;600;700&family=Nunito:wght@500;700&Mulish:wght@500&display=swap",
+        CacheControlInSDefault= RtInkGit.Constants.ThreeHInSecForCache,
+        GoogleAnalyticsCode = "G-9M6YD44WE0",
+        YandexMetrikaCode = "99212176"
+    }, sp.GetRequiredService<IHttpContextAccessor>(), sp.GetRequiredService<ILoggerFactory>()
+));
 
 // -- app
 
@@ -34,12 +48,9 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
-var IsDebug = true;
-
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
-    IsDebug = false;
     app.UseExceptionHandler("/Error");
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
@@ -52,8 +63,8 @@ app.UseOutputCache();
 app.UseStaticFiles(new StaticFileOptions { 
     OnPrepareResponse = ctx => { 
         var fileName = ctx.File.Name.ToLower();
-        if(fileName.EndsWith(".png")) ctx.Context.Response.Headers.Append("Cache-Control", "public,max-age=" + RtInk.Constants.ThirtyDInSecForCache);
-        else ctx.Context.Response.Headers.Append("Cache-Control", "public,max-age=" + RtInk.Constants.ThreeHInSecForCache);
+        if(fileName.EndsWith(".png")) ctx.Context.Response.Headers.Append("Cache-Control", "public,max-age=" + RtInkGit.Constants.ThirtyDInSecForCache);
+        else ctx.Context.Response.Headers.Append("Cache-Control", "public,max-age=" + RtInkGit.Constants.ThreeHInSecForCache);
     }
 });
 
@@ -68,23 +79,10 @@ var loggerFactory = LoggerFactory.Create(builder => {
 var logger = loggerFactory.CreateLogger<Program>();
 logger.LogInformation("RtInkGit project - started");
 
-// -- Alga.wwwcore
-
-var www = new Root(new ConfigM(
-    IsDebug: IsDebug,
-    Url: RtInk.Constants.Url,
-    Name: "RT Dev - Application",
-    NameShort: "RT Dev",
-    Description: "",
-    GoogleFontsUrl: "https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat:wght@500;600;700&family=Nunito:wght@500;700&Mulish:wght@500&display=swap",
-    CacheControlInSDefault: RtInk.Constants.ThreeHInSecForCache
-), loggerFactory);
 
 // -- endpoints: based on activities
 
-app.MapGet("/", async (context) => { 
-    await www.SendAsync(context, "Index"); 
-}).CacheOutput(ThreeHOutputCachePolicy);
+app.MapGet("/", async (Root www) => { await www.SendAsync("Index"); });
 
 // -- endpoints: other
 

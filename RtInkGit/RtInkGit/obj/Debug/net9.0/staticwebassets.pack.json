@@ -125,8 +125,16 @@
       "PackagePath": "staticwebassets/UISs/Index/content/LinkedIn Banner 20241119.png"
     },
     {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/content/alga-search-banner.png",
+      "PackagePath": "staticwebassets/UISs/Index/content/alga-search-banner.png"
+    },
+    {
       "Id": "/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/content/alga-wwwcore-banner.png",
       "PackagePath": "staticwebassets/UISs/Index/content/alga-wwwcore-banner.png"
+    },
+    {
+      "Id": "/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/content/alga-xaml-banner.png",
+      "PackagePath": "staticwebassets/UISs/Index/content/alga-xaml-banner.png"
     },
     {
       "Id": "/Users/airatgalimov/Documents/Airat/Projects/RtInkGit/RtInkGit/RtInkGit/wwwroot/UISs/Index/content/whats-new-in-NET-9.jpg",
